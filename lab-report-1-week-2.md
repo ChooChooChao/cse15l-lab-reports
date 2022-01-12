@@ -1,3 +1,3 @@
 Screenshot 1:\
 
-![Image](loginWithoutPassword.png)
+![Image](./loginWithoutPassword.png)
