@@ -5,8 +5,7 @@
 
 **Moved forward anyways**
 
-CSE 15L Week 2 Page:
-[Link](https://ucsd-cse15l-w22.github.io/week/week2/#notes-from-class)
+[CSE 15L Week 2 Page](https://ucsd-cse15l-w22.github.io/week/week2/#notes-from-class)
 
 
 Image: 
