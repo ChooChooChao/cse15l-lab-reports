@@ -10,7 +10,7 @@ CSE 15L Week 2 Page:
 
 
 Image: 
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Flibrary.ucsd.edu%2Fnews-events%2Fwp-content%2Fuploads%2F2020%2F08%2FLibrary-Blog-Post-Feature-1920x1080-50th-1.jpg&imgrefurl=https%3A%2F%2Flibrary.ucsd.edu%2Fnews-events%2Fgeisellibrary50thanniversary%2F&tbnid=X4paezgMhYe5eM&vet=12ahUKEwiF35vhpa31AhVQSawKHYj2BGcQMygAegUIARDVAQ..i&docid=csvZL7y8hyeRfM&w=1920&h=1080&q=ucsd%20photo&ved=2ahUKEwiF35vhpa31AhVQSawKHYj2BGcQMygAegUIARDVAQ)
+![Image](https://library.ucsd.edu/news-events/wp-content/uploads/2020/08/Library-Blog-Post-Feature-1920x1080-50th-1.jpg)
 
 > Some more practice
 
