@@ -1,2 +1,2 @@
-![Image](loginWithoutPassword.png)
 Screenshot 1:
+![Image](loginWithoutPassword.png)
