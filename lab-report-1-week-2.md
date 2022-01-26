@@ -11,7 +11,7 @@
 
 > **Remotely Conneting**
 - In order to remotely connect to a computer in the the CS lab on campus, you can complete the VScode terminal.
-- Thus in order to connect to remotely, you need to type in the command ```ssh cs15lwi22***@ieng6.ucd.edu```, where ssh refers to the secure shell and *** refers to where you substitute your unique username identification.
+- Thus in order to connect to remotely, you need to type in the command ```ssh cs15lwi22***@ieng6.ucd.edu```, where ```ssh``` refers to the secure shell and *** refers to where you substitute your unique username identification.
 - Then you need to enter the password you set for this account (initially I believe this is you triton link password, but you can change this password online)
 
 ![Image](sshConnection.PNG)
