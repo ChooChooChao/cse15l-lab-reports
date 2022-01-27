@@ -18,7 +18,7 @@
 - Attached here is the [link](https://github.com/jonathanaduong/markdown-parse/commit/1f240c328cf956799750a4deb08f3efdf1dc2533) to the failure inducing-input. 
 - Below you can see the output results of the failure-inducing code
 
-![Imaga](outputErrorForBug2.PNG)
+![Image](outputErrorForBug2.PNG)
 
 - Though it is unlikely that there would be extra parentheses within the link, this bug considers such an input. As a result of this, we got a heap space error. We fixed this error by adding a separate check ensuring there are no brackets or parentheses within the first found opening parentheses and final closing parentheses.
 
