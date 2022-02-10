@@ -7,7 +7,10 @@
 ![Image](bug1SolutionScreenshot.PNG)
 
 - Attached here is the [link](https://github.com/ChooChooChao/markdown-parse/commit/0f04bfd5aa2b037a428ffc4691d053719b1ef6df#diff-0c888627ccb44d27a24ecdede12f8e703504fd7bd52d792866fe2a3e33b8622a) to the failure inducing-input. 
-- It is difficult to display an infinite output with a screenshot, but you may also find a part of the resulting symptoms in the commit history.
+- Below you may find the output of the infinite loop. It is necessary to ```ctrl + c``` in order to break the output. 
+
+![Image](infiniteLoopPhoto.PNG)
+
 - Based off the input, we found that it was the new/extra lines at the end of the test file that caused the error. This resulted in an infinite output. Thus we changed the code so that it would account for and break the loop after the final set of brackets and parentheses. 
 
 
